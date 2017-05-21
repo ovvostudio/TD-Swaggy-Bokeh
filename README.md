@@ -16,7 +16,7 @@ So, this is the first of those components that accurately mimics the **Depth of 
 
 This is a 1:1 GLSL implementation of an amazing work by [**Martin Upitis**](http://devlog-martinsh.blogspot.fr/2011/12/glsl-depth-of-field-with-bokeh-v24.html). The code is so clean that demanded really no effort to port it to Touch Designer.
 
-To bring it into the world of Touch Designer, I decided to integrate it more deeply than I initially thought. That is, you don't even have to match the camera, it is done just by drugging your scene camera into the the corresponding component field.
+To bring it into the world of Touch Designer, I decided to integrate it more deeply than I initially thought. That is, you don't even have to match the camera, it is done just by dragging your scene camera into the the corresponding component field.
 
 But you can also use it to composite your 3d renders with a depth pass. I've always been a fan of [Frischluft Lenscare](http://www.frischluft.com/lenscare/) which is imho the best depth of field generator around.
 
